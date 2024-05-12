@@ -1,3 +1,5 @@
+// sorting
+
 class searchInSorted
 {
    public static boolean search(int array[][],int key)
